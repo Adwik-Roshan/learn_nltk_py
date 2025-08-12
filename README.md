@@ -1,7 +1,7 @@
 # learn_nltk_py
 
 ## What: 
-Experimenting with different libraries accessible in Python for various NLP processes
+Experimenting with different libraries accessible in Python for various Gen AI processes
 
 📚 The basics of language modeling.
 🧑‍💻 Setting up the environment for language models.
